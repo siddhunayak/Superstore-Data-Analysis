@@ -14,9 +14,6 @@ This project analyzes a retail sales dataset, **Sample - Superstore.csv**, to ex
 - [Installation & Setup](#installation--setup)
 - [Usage](#usage)
 - [Results & Visualizations](#results--visualizations)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
@@ -39,23 +36,26 @@ The dataset contains retail sales transactions, including details like:
 ## **Key Insights 📌**
 ### **1. Customer Segmentation**  
 - Identified different customer **Segments** (Consumer, Corporate, Home Office).  
-- Analyzed purchase frequency and sales contributions per segment.  
+-The majority of customers are Consumers, followed by Corporate and Home Office.  
 
 ### **2. Shipping Mode Analysis**  
 - Determined the most used shipping modes.  
-- Analyzed the impact of shipping mode on sales and customer preference.  
+- Standard Class is the most preferred shipping method.  
 
 ### **3. Geographic Sales Distribution**  
 - Mapped sales by **State** and **City** to identify high-performing locations.  
-- Provided insights for better regional marketing strategies.  
+- Provided insights for better regional marketing strategies.
+- States like California and New York contribute the most to sales. 
 
 ### **4. Product Performance Analysis**  
 - Identified top-selling product **Categories** and **Sub-Categories**.  
-- Recommended profitable product focus areas for better inventory management.  
+- Recommended profitable product focus areas for better inventory management.
+- Technology products generate the highest revenue, followed by Furniture and Office Supplies. 
 
 ### **5. Sales Trends & Forecasting**  
 - Analyzed **Yearly, Quarterly, and Monthly** sales trends.  
-- Provided data-driven insights for sales forecasting and business strategy.  
+- Provided data-driven insights for sales forecasting and business strategy.
+- Sales peak in Q4 (likely due to holiday shopping) and show consistent growth over the years.  
 
 ---
 
@@ -76,14 +76,14 @@ The dataset contains retail sales transactions, including details like:
 | **matplotlib** | Data visualization |
 | **seaborn** | Advanced data visualization |
 | **chardet** | Encoding detection for reading CSV files |
-| **Git & GitHub** | Version control and collaboration |
+
 
 ---
 
 ## **Installation & Setup 🏗️**
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/<your-username>/Superstore-Data-Analysis.git
+git clone https://github.com/<siddhunayak>/Superstore-Data-Analysis.git
 cd Superstore-Data-Analysis
 ```
 ### **Step 2: Install Dependencies**
@@ -117,20 +117,9 @@ python super_store.py  # If your script is named super_store.py
 
 ---
 
-## **Contributing 🤝**
-Contributions are welcome! If you find any issues or have suggestions for improvements:
-1. Fork this repository.  
-2. Create a new branch (`git checkout -b feature-branch`).  
-3. Commit your changes (`git commit -m "Added a new feature"`).  
-4. Push to your branch (`git push origin feature-branch`).  
-5. Open a Pull Request.  
 
----
 
-## **License 📜**
-This project is licensed under the MIT License. Feel free to use and modify it as per your requirements.
 
----
 
 
 
