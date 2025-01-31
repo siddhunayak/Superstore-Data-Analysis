@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/5e963acd-b6e6-4f88-96ce-d7238570e7ab)Here's the **README.md** content for your GitHub repositor
 
 # **Superstore Data Analysis 📊**
 
@@ -108,7 +107,7 @@ python super_store.py  # If your script is named super_store.py
 
 ## **Results & Visualizations 📊**
 ### **Customer Segmentation**
-![Customer Segmentation](C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot 2025-01-31 135353.png/600x300) *(Replace with actual visualization image)*  
+![Customer Segmentation](.png/600x300) *(Replace with actual visualization image)*  
 
 ### **Sales by Region**
 ![Sales by Region](https://via.placeholder.com/600x300)  
