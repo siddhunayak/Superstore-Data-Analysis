@@ -107,10 +107,10 @@ python super_store.py  # If your script is named super_store.py
 
 ## **Results & Visualizations 📊**
 ### **Customer Segmentation**
-![Customer Segmentation](.png/600x300) *(Replace with actual visualization image)*  
+![Customer Segmentation](images/Screenshot 2025-01-31 135353.png/600x300) *(Replace with actual visualization image)*  
 
 ### **Sales by Region**
-![Sales by Region](https://via.placeholder.com/600x300)  
+![Sales by Region](https://images/Screenshot 2025-01-31 135353.png/600x300)  
 
 ### **Sales Trend Analysis**
 ![Sales Trends](https://via.placeholder.com/600x300)  
