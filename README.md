@@ -1,6 +1,5 @@
-Here's the **README.md** content for your GitHub repository:
+![image](https://github.com/user-attachments/assets/5e963acd-b6e6-4f88-96ce-d7238570e7ab)Here's the **README.md** content for your GitHub repositor
 
-```markdown
 # **Superstore Data Analysis 📊**
 
 ## **Overview**
@@ -94,7 +93,7 @@ pip install pandas numpy matplotlib seaborn chardet
 ```
 ### **Step 3: Run the Analysis**
 ```bash
-python analysis.py  # If your script is named analysis.py
+python super_store.py  # If your script is named super_store.py
 ```
 
 ---
@@ -109,7 +108,7 @@ python analysis.py  # If your script is named analysis.py
 
 ## **Results & Visualizations 📊**
 ### **Customer Segmentation**
-![Customer Segmentation](https://via.placeholder.com/600x300) *(Replace with actual visualization image)*  
+![Customer Segmentation](C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot 2025-01-31 135353.png/600x300) *(Replace with actual visualization image)*  
 
 ### **Sales by Region**
 ![Sales by Region](https://via.placeholder.com/600x300)  
@@ -134,11 +133,5 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 ---
 
-## **Contact 📧**
-For any queries or collaborations, reach out to:  
-📌 **GitHub**: [Your GitHub Profile](https://github.com/your-username)  
-📌 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
 
----
-```
 
