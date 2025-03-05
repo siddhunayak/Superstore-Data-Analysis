@@ -104,23 +104,3 @@ python super_store.py  # If your script is named super_store.py
 4. Use the insights to make data-driven business decisions.  
 
 ---
-
-## **Results & Visualizations 📊**
-### **Customer Segmentation**
-![Customer Segmentation](images/Screenshot 2025-01-31 135353.png/600x300) *(Replace with actual visualization image)*  
-
-### **Sales by Region**
-<img src="images/screenshot 2025-01-31 135353.png"/>
-
-
-### **Sales Trend Analysis**
-![Sales Trends](https://via.placeholder.com/600x300)  
-
----
-
-
-
-
-
-
-
